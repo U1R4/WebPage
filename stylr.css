@@ -283,6 +283,6 @@ a{
     justify-content: center;
   }
   .hero-img {
-    display: none;
+    right: 0;
   }
 }
